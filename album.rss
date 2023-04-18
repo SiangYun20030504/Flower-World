@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>花花世界</title>
+   	<link>.</link>
+        <generator>jAlbum 30.2</generator>
+   		<description>大自然中的美麗</description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>粉色少女</title>
+            <link>slides/%E7%B2%89%E8%89%B2%E5%B0%91%E5%A5%B3.html</link>
+            <pubDate>Tue, 18 Apr 2023 11:37:46 +0800</pubDate>
+            <description>&lt;p style=&quot;text-align: center;&quot;&gt;拍攝地點：新社古堡粉色的花充滿了少女心，當微風吹過，就好像少女的裙子在飄逸。&lt;/p&gt;</description>
+            <media:description type="html">&lt;p style=&quot;text-align: center;&quot;&gt;拍攝地點：新社古堡粉色的花充滿了少女心，當微風吹過，就好像少女的裙子在飄逸。&lt;/p&gt;</media:description>
+            <media:thumbnail url="thumbs/%E7%B2%89%E8%89%B2%E5%B0%91%E5%A5%B3.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="slides/%E7%B2%89%E8%89%B2%E5%B0%91%E5%A5%B3.jpg" width="607" height="1080"/>
+            <guid isPermaLink="false">slides/%E7%B2%89%E8%89%B2%E5%B0%91%E5%A5%B3.jpg</guid>
+        </item>
+        <item>
+            <title>紅炮迎春</title>
+            <link>slides/%E7%B4%85%E7%82%AE%E8%BF%8E%E6%98%A5.html</link>
+            <pubDate>Tue, 18 Apr 2023 11:37:46 +0800</pubDate>
+            <description>拍攝地點：彰化田尾公路
+花園春節期間拍攝的紅色九重葛喜氣洋洋，像一串鞭炮。&lt;/p&gt;</description>
+            <media:description type="html">拍攝地點：彰化田尾公路
+花園春節期間拍攝的紅色九重葛喜氣洋洋，像一串鞭炮。&lt;/p&gt;</media:description>
+            <media:thumbnail url="thumbs/%E7%B4%85%E7%82%AE%E8%BF%8E%E6%98%A5.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="slides/%E7%B4%85%E7%82%AE%E8%BF%8E%E6%98%A5.jpg" width="810" height="1080"/>
+            <guid isPermaLink="false">slides/%E7%B4%85%E7%82%AE%E8%BF%8E%E6%98%A5.jpg</guid>
+        </item>
+        <item>
+            <title>紫色風鈴</title>
+            <link>slides/%E7%B4%AB%E8%89%B2%E9%A2%A8%E9%88%B4.html</link>
+            <pubDate>Tue, 18 Apr 2023 11:37:46 +0800</pubDate>
+            <description>拍攝地點：彰化田尾公路花園
+微風吹過，風鈴草像風鈴一樣擺動，好像在演奏著風鈴交響樂。</description>
+            <media:description type="html">拍攝地點：彰化田尾公路花園
+微風吹過，風鈴草像風鈴一樣擺動，好像在演奏著風鈴交響樂。</media:description>
+            <media:thumbnail url="thumbs/%E7%B4%AB%E8%89%B2%E9%A2%A8%E9%88%B4.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="slides/%E7%B4%AB%E8%89%B2%E9%A2%A8%E9%88%B4.jpg" width="810" height="1080"/>
+            <guid isPermaLink="false">slides/%E7%B4%AB%E8%89%B2%E9%A2%A8%E9%88%B4.jpg</guid>
+        </item>
+        <item>
+            <title>心想事橙</title>
+            <link>slides/%E5%BF%83%E6%83%B3%E4%BA%8B%E6%A9%99.html</link>
+            <pubDate>Tue, 18 Apr 2023 11:37:46 +0800</pubDate>
+            <description>拍攝地點：路邊
+天空&amp;橘色的九重葛，望著天空看著橙色的九重葛，希望心想事橙。</description>
+            <media:description type="html">拍攝地點：路邊
+天空&amp;橘色的九重葛，望著天空看著橙色的九重葛，希望心想事橙。</media:description>
+            <media:thumbnail url="thumbs/%E5%BF%83%E6%83%B3%E4%BA%8B%E6%A9%99.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="slides/%E5%BF%83%E6%83%B3%E4%BA%8B%E6%A9%99.jpg" width="810" height="1080"/>
+            <guid isPermaLink="false">slides/%E5%BF%83%E6%83%B3%E4%BA%8B%E6%A9%99.jpg</guid>
+        </item>
+        <item>
+            <title>紫色妖精</title>
+            <link>slides/%E7%B4%AB%E8%89%B2%E5%A6%96%E7%B2%BE.html</link>
+            <pubDate>Tue, 18 Apr 2023 11:37:46 +0800</pubDate>
+            <description>拍攝地點:南投梅峰農場
+不規則的花瓣，就好像妖精揮動著翅膀在跳舞。</description>
+            <media:description type="html">拍攝地點:南投梅峰農場
+不規則的花瓣，就好像妖精揮動著翅膀在跳舞。</media:description>
+            <media:thumbnail url="thumbs/%E7%B4%AB%E8%89%B2%E5%A6%96%E7%B2%BE.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="slides/%E7%B4%AB%E8%89%B2%E5%A6%96%E7%B2%BE.jpg" width="1631" height="1080"/>
+            <guid isPermaLink="false">slides/%E7%B4%AB%E8%89%B2%E5%A6%96%E7%B2%BE.jpg</guid>
+        </item>
+        <item>
+            <title>含苞待放</title>
+            <link>slides/5.html</link>
+            <pubDate>Tue, 18 Apr 2023 11:37:46 +0800</pubDate>
+            <description>拍攝地點 :大尖山
+盛開的櫻花伴隨著含苞未開的櫻花，生長在同一個枝幹上，反映出春天剛來臨的感覺。</description>
+            <media:description type="html">拍攝地點 :大尖山
+盛開的櫻花伴隨著含苞未開的櫻花，生長在同一個枝幹上，反映出春天剛來臨的感覺。</media:description>
+            <media:thumbnail url="thumbs/5.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="slides/5.jpg" width="607" height="1080"/>
+            <guid isPermaLink="false">slides/5.jpg</guid>
+        </item>
+        <item>
+            <title>薰衣草森林</title>
+            <link>slides/%E8%96%B0%E8%A1%A3%E8%8D%89%E6%A3%AE%E6%9E%97.html</link>
+            <pubDate>Tue, 18 Apr 2023 11:37:46 +0800</pubDate>
+            <description>拍攝地點 :南投杉林溪
+望眼過去皆是薰衣草，在陽光的照耀下促成了薰衣草的成長，彷彿一塊土地大豐收。</description>
+            <media:description type="html">拍攝地點 :南投杉林溪
+望眼過去皆是薰衣草，在陽光的照耀下促成了薰衣草的成長，彷彿一塊土地大豐收。</media:description>
+            <media:thumbnail url="thumbs/%E8%96%B0%E8%A1%A3%E8%8D%89%E6%A3%AE%E6%9E%97.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="slides/%E8%96%B0%E8%A1%A3%E8%8D%89%E6%A3%AE%E6%9E%97.jpg" width="1440" height="1080"/>
+            <guid isPermaLink="false">slides/%E8%96%B0%E8%A1%A3%E8%8D%89%E6%A3%AE%E6%9E%97.jpg</guid>
+        </item>
+        <item>
+            <title>數大便是美</title>
+            <link>slides/%E6%95%B8%E5%A4%A7%E4%BE%BF%E6%98%AF%E7%BE%8E.html</link>
+            <pubDate>Tue, 18 Apr 2023 11:37:46 +0800</pubDate>
+            <description>拍攝地點 :南投梅峰農場
+櫻花同時間盛開，並長滿了整個枝幹，畫面美感隨之進入眼簾。</description>
+            <media:description type="html">拍攝地點 :南投梅峰農場
+櫻花同時間盛開，並長滿了整個枝幹，畫面美感隨之進入眼簾。</media:description>
+            <media:thumbnail url="thumbs/%E6%95%B8%E5%A4%A7%E4%BE%BF%E6%98%AF%E7%BE%8E.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="slides/%E6%95%B8%E5%A4%A7%E4%BE%BF%E6%98%AF%E7%BE%8E.jpg" width="1631" height="1080"/>
+            <guid isPermaLink="false">slides/%E6%95%B8%E5%A4%A7%E4%BE%BF%E6%98%AF%E7%BE%8E.jpg</guid>
+        </item>
+        <item>
+            <title>夢見草</title>
+            <link>slides/12.html</link>
+            <pubDate>Tue, 18 Apr 2023 12:08:05 +0800</pubDate>
+            <description>拍攝地點:南投梅峰農場
+櫻花的花期短約只有兩週，試著回想一下櫻花飄零凋落的風景，看著看著，就彷彿世界速度都緩了下來，如夢境一般。</description>
+            <media:description type="html">拍攝地點:南投梅峰農場
+櫻花的花期短約只有兩週，試著回想一下櫻花飄零凋落的風景，看著看著，就彷彿世界速度都緩了下來，如夢境一般。</media:description>
+            <media:thumbnail url="thumbs/12.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="slides/12.jpg" width="1631" height="1080"/>
+            <guid isPermaLink="false">slides/12.jpg</guid>
+        </item>
+        <item>
+            <title>花叢</title>
+            <link>slides/%E8%8A%B1%E5%8F%A2.html</link>
+            <pubDate>Tue, 18 Apr 2023 11:37:46 +0800</pubDate>
+            <description>拍攝地點：彰化田尾公路花園
+花就像樹叢，從原本的幾朵花經過時間的淬鍊，接連長滿了整個花盆，猶如花叢一般。</description>
+            <media:description type="html">拍攝地點：彰化田尾公路花園
+花就像樹叢，從原本的幾朵花經過時間的淬鍊，接連長滿了整個花盆，猶如花叢一般。</media:description>
+            <media:thumbnail url="thumbs/%E8%8A%B1%E5%8F%A2.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="slides/%E8%8A%B1%E5%8F%A2.jpg" width="810" height="1080"/>
+            <guid isPermaLink="false">slides/%E8%8A%B1%E5%8F%A2.jpg</guid>
+        </item>
+        <item>
+            <title>追隨</title>
+            <link>slides/%E8%BF%BD%E9%9A%A8.html</link>
+            <pubDate>Tue, 18 Apr 2023 11:37:46 +0800</pubDate>
+            <description>&lt;p style=&quot;text-align: center;&quot;&gt;在朵朵花草中最能凸顯自己的關鍵就在於盛開的那一刻，我們追隨著自己最想要的目標，那是多麼特別的。&lt;/p&gt;</description>
+            <media:description type="html">&lt;p style=&quot;text-align: center;&quot;&gt;在朵朵花草中最能凸顯自己的關鍵就在於盛開的那一刻，我們追隨著自己最想要的目標，那是多麼特別的。&lt;/p&gt;</media:description>
+            <media:thumbnail url="thumbs/%E8%BF%BD%E9%9A%A8.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="slides/%E8%BF%BD%E9%9A%A8.jpg" width="1707" height="960"/>
+            <guid isPermaLink="false">slides/%E8%BF%BD%E9%9A%A8.jpg</guid>
+        </item>
+        <item>
+            <title>櫻夢</title>
+            <link>slides/7.html</link>
+            <pubDate>Tue, 18 Apr 2023 11:37:46 +0800</pubDate>
+            <description>拍攝地點 :潭陽國小校門口
+櫻花總是在春天出現，春天總是如此的美好，櫻花就如同夢境一般的出現在人們的眼中。</description>
+            <media:description type="html">拍攝地點 :潭陽國小校門口
+櫻花總是在春天出現，春天總是如此的美好，櫻花就如同夢境一般的出現在人們的眼中。</media:description>
+            <media:thumbnail url="thumbs/7.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="slides/7.jpg" width="810" height="1080"/>
+            <guid isPermaLink="false">slides/7.jpg</guid>
+        </item>
+        <item>
+            <title>美麗可人</title>
+            <link>slides/8.html</link>
+            <pubDate>Tue, 18 Apr 2023 11:37:46 +0800</pubDate>
+            <description>拍攝地點 :潭陽國小校門口
+櫻花是人們最喜歡的花之一，因為他迷人的顏色讓世人都很喜愛櫻花的美。</description>
+            <media:description type="html">拍攝地點 :潭陽國小校門口
+櫻花是人們最喜歡的花之一，因為他迷人的顏色讓世人都很喜愛櫻花的美。</media:description>
+            <media:thumbnail url="thumbs/8.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="slides/8.jpg" width="810" height="1080"/>
+            <guid isPermaLink="false">slides/8.jpg</guid>
+        </item>
+        <item>
+            <title>漏網之魚</title>
+            <link>slides/11.html</link>
+            <pubDate>Tue, 18 Apr 2023 11:37:46 +0800</pubDate>
+            <description>拍攝地點 :北屯好市多
+好市多裡有賣各式各樣的花，到了要關門打烊時剩餘的花還是依舊的美。</description>
+            <media:description type="html">拍攝地點 :北屯好市多
+好市多裡有賣各式各樣的花，到了要關門打烊時剩餘的花還是依舊的美。</media:description>
+            <media:thumbnail url="thumbs/11.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="slides/11.jpg" width="810" height="1080"/>
+            <guid isPermaLink="false">slides/11.jpg</guid>
+        </item>
+        <item>
+            <title>花童</title>
+            <link>slides/13.html</link>
+            <pubDate>Tue, 18 Apr 2023 11:37:46 +0800</pubDate>
+            <description>拍攝地點 :南投梅峰農場
+在我還是國小的時候我會去搜集很多這種花，捧在手心然後再一次往天空灑！這就是我童年最喜歡的一個活動。</description>
+            <media:description type="html">拍攝地點 :南投梅峰農場
+在我還是國小的時候我會去搜集很多這種花，捧在手心然後再一次往天空灑！這就是我童年最喜歡的一個活動。</media:description>
+            <media:thumbnail url="thumbs/13.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="slides/13.jpg" width="1631" height="1080"/>
+            <guid isPermaLink="false">slides/13.jpg</guid>
+        </item>
+        <item>
+            <title>四季皆開的馬櫻丹</title>
+            <link>slides/19.html</link>
+            <pubDate>Tue, 18 Apr 2023 11:37:46 +0800</pubDate>
+            <description>&lt;p style=&quot;text-align: center;&quot;&gt;一年四季可見的馬櫻丹時刻散發出鮮活的生命能量。&lt;/p&gt;</description>
+            <media:description type="html">&lt;p style=&quot;text-align: center;&quot;&gt;一年四季可見的馬櫻丹時刻散發出鮮活的生命能量。&lt;/p&gt;</media:description>
+            <media:thumbnail url="thumbs/19.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="slides/19.jpg" width="1440" height="1080"/>
+            <guid isPermaLink="false">slides/19.jpg</guid>
+        </item>
+        <item>
+            <title>綠意盎然</title>
+            <link>slides/17.html</link>
+            <pubDate>Tue, 18 Apr 2023 11:37:46 +0800</pubDate>
+            <description>&lt;p style=&quot;text-align: center;&quot;&gt;紅色的鮮花盛開，和四周的綠植形成顏色對比。對比的效果使綠植看起來富有生機。&lt;/p&gt;</description>
+            <media:description type="html">&lt;p style=&quot;text-align: center;&quot;&gt;紅色的鮮花盛開，和四周的綠植形成顏色對比。對比的效果使綠植看起來富有生機。&lt;/p&gt;</media:description>
+            <media:thumbnail url="thumbs/17.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="slides/17.jpg" width="1134" height="638"/>
+            <guid isPermaLink="false">slides/17.jpg</guid>
+        </item>
+        <item>
+            <title>高雅的她</title>
+            <link>slides/16.html</link>
+            <pubDate>Tue, 18 Apr 2023 11:37:46 +0800</pubDate>
+            <description>&lt;p style=&quot;text-align: center;&quot;&gt;在櫻花的花語中，不僅有高雅、美麗，也有純潔的涵意。&lt;/p&gt;</description>
+            <media:description type="html">&lt;p style=&quot;text-align: center;&quot;&gt;在櫻花的花語中，不僅有高雅、美麗，也有純潔的涵意。&lt;/p&gt;</media:description>
+            <media:thumbnail url="thumbs/16.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="slides/16.jpg" width="1080" height="1080"/>
+            <guid isPermaLink="false">slides/16.jpg</guid>
+        </item>
+        <item>
+            <title>愛與美</title>
+            <link>slides/15.html</link>
+            <pubDate>Tue, 18 Apr 2023 11:37:46 +0800</pubDate>
+            <description>拍攝地點 :南投梅峰農場
+愛與美是紫羅蘭的花語之一。也有不同地區的人認為紫羅蘭象徵著忠誠，有著永不背叛的涵意。</description>
+            <media:description type="html">拍攝地點 :南投梅峰農場
+愛與美是紫羅蘭的花語之一。也有不同地區的人認為紫羅蘭象徵著忠誠，有著永不背叛的涵意。</media:description>
+            <media:thumbnail url="thumbs/15.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="slides/15.jpg" width="1631" height="1080"/>
+            <guid isPermaLink="false">slides/15.jpg</guid>
+        </item>
+        <item>
+            <title>回憶湧現</title>
+            <link>slides/14.html</link>
+            <pubDate>Tue, 18 Apr 2023 11:37:46 +0800</pubDate>
+            <description>拍攝地點 :南投梅峰農場
+橘色鬱金香的花語是歷久彌新、美好回憶。</description>
+            <media:description type="html">拍攝地點 :南投梅峰農場
+橘色鬱金香的花語是歷久彌新、美好回憶。</media:description>
+            <media:thumbnail url="thumbs/14.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="slides/14.jpg" width="1631" height="1080"/>
+            <guid isPermaLink="false">slides/14.jpg</guid>
+        </item>
+    </channel>
+</rss>
